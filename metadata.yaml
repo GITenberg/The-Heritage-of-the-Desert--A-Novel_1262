@@ -1,0 +1,38 @@
+_repo: The-Heritage-of-the-Desert--A-Novel_1262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: John Hare lies dying in the desert until he is discovered and saved by
+  the kind and generous rancher, August Naab. As Hare is nursed back to health on
+  Naab's ranch, he finds himself irresistibly attracted to Naab's adopted daughter,
+  Mescal. But Mescal is being relentlessly pursued by Holderness, a man who is not
+  to be trusted. Hare is soon drawn into a web of adventure and intrigue over land,
+  water, and the heart of a beautiful woman, all set against the sweeping backdrop
+  of the Wild West.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Utah -- Fiction'
+- !lcsh 'Deserts -- Fiction'
+- GITenberg
+title: 'The Heritage of the Desert: A Novel'
+url: http://www.gutenberg.org/ebooks/1262
