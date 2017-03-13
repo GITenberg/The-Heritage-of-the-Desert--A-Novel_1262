@@ -1,5 +1,8 @@
 _repo: The-Heritage-of-the-Desert--A-Novel_1262
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -18,6 +21,8 @@ description: John Hare lies dying in the desert until he is discovered and saved
   to be trusted. Hare is soon drawn into a web of adventure and intrigue over land,
   water, and the heart of a beautiful woman, all set against the sweeping backdrop
   of the Wild West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1262#The-Heritage-of-the-Desert--A-Novel
 gutenberg_bookshelf: Western
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
